@@ -1,7 +1,7 @@
 # home-task
 
 This project is simple one which shows a combination of react, smart contract through web3.js.
-# Frontend
+# Frontend (Node.js version: 14.19.0)
 First, you can just run "npm install" via command prompt on the root directory of the project to install all node modules used.
 Secondly, you can simply run node server by running "npm start" and then check the website in the browser.
   Warning: You need to install metamask extension in your browser or else you would not get into that website.
